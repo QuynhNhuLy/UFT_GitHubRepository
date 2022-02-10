@@ -1,0 +1,53 @@
+<ActiveScreenInfo>
+	<Snapshot xsi:type="Web" id="1">
+		<Viewer>Mercury.SSHWeb</Viewer>
+		<WebMetaData StaticSave="0" HasUnknownEncoding="0"/>
+		<Parent>Browser(&quot;Manage Orders - Order&quot;).Page(&quot;Welcome&quot;)</Parent>
+		<Resources>
+			<Resource>
+				<FileName>ssf209.html</FileName>
+				<URL>https://ekbn-dev5.fa.us6.oraclecloud.com/fscmUI/faces/AtkHomePageWelcome?_adf.no-new-window-redirect=true&amp;_adf.ctrl-state=j79ei2a61_5&amp;_afrLoop=1009111102784752&amp;_afrWindowMode=2&amp;_afrWindowId=null&amp;_afrFS=16&amp;_afrMT=screen&amp;_afrMFW=1079&amp;_afrMFH=938&amp;_afrMFDW=1920&amp;_afrMFDH=1080&amp;_afrMFC=8&amp;_afrMFCI=0&amp;_afrMFM=0&amp;_afrMFR=96&amp;_afrMFG=0&amp;_afrMFS=0&amp;_afrMFO=0</URL>
+				<FrameDOMHierarchy>0</FrameDOMHierarchy>
+				<UrlWithoutForm>https://ekbn-dev5.fa.us6.oraclecloud.com/fscmUI/faces/AtkHomePageWelcome</UrlWithoutForm>
+				<FrameName>94uw6xvig</FrameName>
+				<GetVisible>&amp;</GetVisible>
+				<GetHidden>&amp;_adf.no-new-window-redirect=true&amp;_adf.ctrl-state=j79ei2a61_5&amp;_afrLoop=1009111102784752&amp;_afrWindowMode=2&amp;_afrWindowId=null&amp;_afrFS=16&amp;_afrMT=screen&amp;_afrMFW=1079&amp;_afrMFH=938&amp;_afrMFDW=1920&amp;_afrMFDH=1080&amp;_afrMFC=8&amp;_afrMFCI=0&amp;_afrMFM=0&amp;_afrMFR=96&amp;_afrMFG=0&amp;_afrMFS=0&amp;_afrMFO=0</GetHidden>
+				<GetData>_adf.no-new-window-redirect=true&amp;_adf.ctrl-state=j79ei2a61_5&amp;_afrLoop=1009111102784752&amp;_afrWindowMode=2&amp;_afrWindowId=null&amp;_afrFS=16&amp;_afrMT=screen&amp;_afrMFW=1079&amp;_afrMFH=938&amp;_afrMFDW=1920&amp;_afrMFDH=1080&amp;_afrMFC=8&amp;_afrMFCI=0&amp;_afrMFM=0&amp;_afrMFR=96&amp;_afrMFG=0&amp;_afrMFS=0&amp;_afrMFO=0</GetData>
+				<CodePage>65001</CodePage>
+			</Resource>
+			<Resource>
+				<FileName>ssf209f0.html</FileName>
+				<URL>https://ekbn-dev5.fa.us6.oraclecloud.com/fscmUI/afr/blank.html</URL>
+				<FrameDOMHierarchy>0.0</FrameDOMHierarchy>
+				<UrlWithoutForm>https://ekbn-dev5.fa.us6.oraclecloud.com/fscmUI/afr/blank.html</UrlWithoutForm>
+				<FrameName>afr::PushIframe</FrameName>
+				<CodePage>65001</CodePage>
+			</Resource>
+		</Resources>
+		<HighlightObjects>
+			<HighlightObject>
+				<HighlightID>Browser(&quot;Manage Orders - Order&quot;).Page(&quot;Welcome&quot;).Link(&quot;You have a new home page!&quot;)</HighlightID>
+				<FrameDOMHierarchy>0</FrameDOMHierarchy>
+				<SourceIndex>335</SourceIndex>
+				<ObjectDescription>
+					<Property>
+						<PropName>text</PropName>
+						<PropVal>You have a new home page!</PropVal>
+					</Property>
+					<Property>
+						<PropName>micclass</PropName>
+						<PropVal>Link</PropVal>
+					</Property>
+					<Property>
+						<PropName>html tag</PropName>
+						<PropVal>A</PropVal>
+					</Property>
+					<Property>
+						<PropName>_xpath</PropName>
+						<PropVal>//DIV[2]/FORM[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[3]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/TABLE[@role=&quot;presentation&quot;][1]/TBODY[1]/TR[1]/TD[3]/DIV[1]/DIV[1]/A[1]</PropVal>
+					</Property>
+				</ObjectDescription>
+			</HighlightObject>
+		</HighlightObjects>
+	</Snapshot>
+</ActiveScreenInfo>

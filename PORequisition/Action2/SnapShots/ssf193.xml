@@ -1,0 +1,78 @@
+<ActiveScreenInfo>
+	<Snapshot xsi:type="Web" id="1">
+		<Viewer>Mercury.SSHWeb</Viewer>
+		<WebMetaData StaticSave="0" HasUnknownEncoding="0"/>
+		<Parent>Browser(&quot;Manage Orders - Order&quot;).Page(&quot;Manage Orders - Order_2&quot;)</Parent>
+		<Resources>
+			<Resource>
+				<FileName>ssf193.html</FileName>
+				<URL>https://ekbn-dev3.fa.us6.oraclecloud.com/fscmUI/faces/FuseWelcome?_afrLoop=5866399750700283&amp;_afrWindowMode=0&amp;_afrWindowId=null&amp;_adf.ctrl-state=gnrxekt9j_1&amp;_afrFS=16&amp;_afrMT=screen&amp;_afrMFW=834&amp;_afrMFH=719&amp;_afrMFDW=1536&amp;_afrMFDH=864&amp;_afrMFC=8&amp;_afrMFCI=0&amp;_afrMFM=0&amp;_afrMFR=120&amp;_afrMFG=0&amp;_afrMFS=0&amp;_afrMFO=0#</URL>
+				<FrameDOMHierarchy>0</FrameDOMHierarchy>
+				<UrlWithoutForm>https://ekbn-dev3.fa.us6.oraclecloud.com/fscmUI/faces/FuseWelcome</UrlWithoutForm>
+				<GetVisible>&amp;</GetVisible>
+				<GetHidden>&amp;_afrLoop=5866399750700283&amp;_afrWindowMode=0&amp;_afrWindowId=null&amp;_adf.ctrl-state=gnrxekt9j_1&amp;_afrFS=16&amp;_afrMT=screen&amp;_afrMFW=834&amp;_afrMFH=719&amp;_afrMFDW=1536&amp;_afrMFDH=864&amp;_afrMFC=8&amp;_afrMFCI=0&amp;_afrMFM=0&amp;_afrMFR=120&amp;_afrMFG=0&amp;_afrMFS=0&amp;_afrMFO=0#</GetHidden>
+				<GetData>_afrLoop=5866399750700283&amp;_afrWindowMode=0&amp;_afrWindowId=null&amp;_adf.ctrl-state=gnrxekt9j_1&amp;_afrFS=16&amp;_afrMT=screen&amp;_afrMFW=834&amp;_afrMFH=719&amp;_afrMFDW=1536&amp;_afrMFDH=864&amp;_afrMFC=8&amp;_afrMFCI=0&amp;_afrMFM=0&amp;_afrMFR=120&amp;_afrMFG=0&amp;_afrMFS=0&amp;_afrMFO=0#</GetData>
+				<CodePage>65001</CodePage>
+			</Resource>
+			<Resource>
+				<FileName>ssf193f0.html</FileName>
+				<URL>https://ekbn-dev3.fa.us6.oraclecloud.com/fscmUI/afr/blank.html</URL>
+				<FrameDOMHierarchy>0.0</FrameDOMHierarchy>
+				<UrlWithoutForm>https://ekbn-dev3.fa.us6.oraclecloud.com/fscmUI/afr/blank.html</UrlWithoutForm>
+				<FrameName>afr::PushIframe</FrameName>
+				<CodePage>65001</CodePage>
+			</Resource>
+			<Resource>
+				<FileName>ssf193f1.html</FileName>
+				<URL>about:blank</URL>
+				<FrameDOMHierarchy>0.1</FrameDOMHierarchy>
+				<UrlWithoutForm>about:blank</UrlWithoutForm>
+				<CodePage>65001</CodePage>
+			</Resource>
+			<Resource>
+				<FileName>ssf193f2.html</FileName>
+				<URL>about:blank</URL>
+				<FrameDOMHierarchy>0.2</FrameDOMHierarchy>
+				<UrlWithoutForm>about:blank</UrlWithoutForm>
+				<CodePage>65001</CodePage>
+			</Resource>
+		</Resources>
+		<HighlightObjects>
+			<HighlightObject>
+				<HighlightID>Browser(&quot;Manage Orders - Order&quot;).Page(&quot;Manage Orders - Order 2&quot;).Link(&quot;300000014122481&quot;)</HighlightID>
+				<FrameDOMHierarchy>0</FrameDOMHierarchy>
+				<SourceIndex>3404</SourceIndex>
+				<ObjectDescription>
+					<Property>
+						<PropName>text</PropName>
+						<PropVal>300000014122481</PropVal>
+					</Property>
+					<Property>
+						<PropName>role</PropName>
+						<PropVal></PropVal>
+					</Property>
+					<Property>
+						<PropName>micclass</PropName>
+						<PropVal>Link</PropVal>
+					</Property>
+					<Property>
+						<PropName>html tag</PropName>
+						<PropVal>A</PropVal>
+					</Property>
+					<Property>
+						<PropName>acc_name</PropName>
+						<PropVal></PropVal>
+					</Property>
+					<Property>
+						<PropName>_xpath</PropName>
+						<PropVal>//DIV[2]/FORM[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[4]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/TABLE[@role=&quot;presentation&quot;][1]/TBODY[1]/TR[1]/TD[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[5]/DIV[1]/TABLE[@role=&quot;presentation&quot;][1]/TBODY[1]/TR[1]/TD[1]/DIV[1]/DIV[2]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[2]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[15]/SPAN[1]/A[1]</PropVal>
+					</Property>
+					<Selector>
+						<SelectorName>index</SelectorName>
+						<SelectorVal>0</SelectorVal>
+					</Selector>
+				</ObjectDescription>
+			</HighlightObject>
+		</HighlightObjects>
+	</Snapshot>
+</ActiveScreenInfo>

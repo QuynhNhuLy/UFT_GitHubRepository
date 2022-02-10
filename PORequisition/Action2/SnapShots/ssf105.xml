@@ -1,0 +1,70 @@
+<ActiveScreenInfo>
+	<Snapshot xsi:type="Web" id="1">
+		<Viewer>Mercury.SSHWeb</Viewer>
+		<WebMetaData StaticSave="0" HasUnknownEncoding="0"/>
+		<Parent>Browser(&quot;Create Miscellaneous Transaction&quot;).Page(&quot;Create Miscellaneous Transaction_6&quot;)</Parent>
+		<Resources>
+			<Resource>
+				<FileName>ssf105.html</FileName>
+				<URL>https://ekbn-dev3.fa.us6.oraclecloud.com/fscmUI/faces/FuseWelcome?_afrLoop=2818801872362280&amp;_afrWindowMode=0&amp;_afrWindowId=null&amp;_adf.ctrl-state=pn9j6tyc6_1&amp;_afrFS=16&amp;_afrMT=screen&amp;_afrMFW=867&amp;_afrMFH=943&amp;_afrMFDW=1920&amp;_afrMFDH=1080&amp;_afrMFC=8&amp;_afrMFCI=0&amp;_afrMFM=0&amp;_afrMFR=96&amp;_afrMFG=0&amp;_afrMFS=0&amp;_afrMFO=1#</URL>
+				<FrameDOMHierarchy>0</FrameDOMHierarchy>
+				<UrlWithoutForm>https://ekbn-dev3.fa.us6.oraclecloud.com/fscmUI/faces/FuseWelcome</UrlWithoutForm>
+				<GetVisible>&amp;</GetVisible>
+				<GetHidden>&amp;_afrLoop=2818801872362280&amp;_afrWindowMode=0&amp;_afrWindowId=null&amp;_adf.ctrl-state=pn9j6tyc6_1&amp;_afrFS=16&amp;_afrMT=screen&amp;_afrMFW=867&amp;_afrMFH=943&amp;_afrMFDW=1920&amp;_afrMFDH=1080&amp;_afrMFC=8&amp;_afrMFCI=0&amp;_afrMFM=0&amp;_afrMFR=96&amp;_afrMFG=0&amp;_afrMFS=0&amp;_afrMFO=1#</GetHidden>
+				<GetData>_afrLoop=2818801872362280&amp;_afrWindowMode=0&amp;_afrWindowId=null&amp;_adf.ctrl-state=pn9j6tyc6_1&amp;_afrFS=16&amp;_afrMT=screen&amp;_afrMFW=867&amp;_afrMFH=943&amp;_afrMFDW=1920&amp;_afrMFDH=1080&amp;_afrMFC=8&amp;_afrMFCI=0&amp;_afrMFM=0&amp;_afrMFR=96&amp;_afrMFG=0&amp;_afrMFS=0&amp;_afrMFO=1#</GetData>
+				<CodePage>65001</CodePage>
+			</Resource>
+			<Resource>
+				<FileName>ssf105f0.html</FileName>
+				<URL>https://ekbn-dev3.fa.us6.oraclecloud.com/fscmUI/afr/blank.html</URL>
+				<FrameDOMHierarchy>0.0</FrameDOMHierarchy>
+				<UrlWithoutForm>https://ekbn-dev3.fa.us6.oraclecloud.com/fscmUI/afr/blank.html</UrlWithoutForm>
+				<FrameName>afr::PushIframe</FrameName>
+				<CodePage>65001</CodePage>
+			</Resource>
+			<Resource>
+				<FileName>ssf105f1.html</FileName>
+				<URL>about:blank</URL>
+				<FrameDOMHierarchy>0.1</FrameDOMHierarchy>
+				<UrlWithoutForm>about:blank</UrlWithoutForm>
+				<CodePage>65001</CodePage>
+			</Resource>
+			<Resource>
+				<FileName>ssf105f2.html</FileName>
+				<URL>about:blank</URL>
+				<FrameDOMHierarchy>0.2</FrameDOMHierarchy>
+				<UrlWithoutForm>about:blank</UrlWithoutForm>
+				<CodePage>65001</CodePage>
+			</Resource>
+		</Resources>
+		<HighlightObjects>
+			<HighlightObject>
+				<HighlightID>Browser(&quot;Create Miscellaneous Transaction&quot;).Page(&quot;Create Miscellaneous Transaction 6&quot;).WebEdit(&quot;pt1: FOr1:1: FOSritemNode warehouse 2&quot;)</HighlightID>
+				<FrameDOMHierarchy>0</FrameDOMHierarchy>
+				<SourceIndex>1609</SourceIndex>
+				<ObjectDescription>
+					<Property>
+						<PropName>type</PropName>
+						<PropVal>text</PropVal>
+					</Property>
+					<Property>
+						<PropName>name</PropName>
+						<PropVal>pt1:_FOr1:1:_FOSritemNode_warehouse_operations_InventoryManagement1:0:MAnt2:2:pt1:ap1:AT1:_ATp:table1:3:ip1:lovTxtId</PropVal>
+					</Property>
+					<Property>
+						<PropName>micclass</PropName>
+						<PropVal>WebEdit</PropVal>
+					</Property>
+					<Property>
+						<PropName>html tag</PropName>
+						<PropVal>INPUT</PropVal>
+					</Property>
+					<Property>
+						<PropName>_xpath</PropName>
+						<PropVal>//DIV[2]/FORM[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[4]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/TABLE[@role=&quot;presentation&quot;][1]/TBODY[1]/TR[1]/TD[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/TABLE[@role=&quot;presentation&quot;][1]/TBODY[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/SPAN[1]/DIV[2]/DIV[2]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[2]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/SPAN[1]/SPAN[1]/SPAN[1]/INPUT[1]</PropVal>
+					</Property>
+				</ObjectDescription>
+			</HighlightObject>
+		</HighlightObjects>
+	</Snapshot>
+</ActiveScreenInfo>

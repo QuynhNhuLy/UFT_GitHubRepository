@@ -1,0 +1,18 @@
+<ActiveScreenInfo>
+	<Snapshot xsi:type="Web" id="1">
+		<Viewer>Mercury.SSHWeb</Viewer>
+		<WebMetaData StaticSave="0" HasUnknownEncoding="0"/>
+		<Parent>Browser(&quot;Create Miscellaneous Transaction&quot;).Page(&quot;Home&quot;)</Parent>
+		<Resources>
+			<Resource>
+				<FileName>ssf24.html</FileName>
+				<URL>https://nov.sharepoint.com/sites/rigtechnologies</URL>
+				<FrameDOMHierarchy>0</FrameDOMHierarchy>
+				<UrlWithoutForm>https://nov.sharepoint.com/sites/rigtechnologies</UrlWithoutForm>
+				<CodePage>65001</CodePage>
+			</Resource>
+		</Resources>
+		<HighlightObjects>
+		</HighlightObjects>
+	</Snapshot>
+</ActiveScreenInfo>

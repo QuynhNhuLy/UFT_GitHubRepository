@@ -1,0 +1,56 @@
+<ActiveScreenInfo>
+	<Snapshot xsi:type="Web" id="1">
+		<Viewer>Mercury.SSHWeb</Viewer>
+		<WebMetaData StaticSave="0" HasUnknownEncoding="0"/>
+		<Parent>Browser(&quot;Overview - Inventory Management&quot;).Page(&quot;Overview - Inventory Management_4&quot;)</Parent>
+		<Resources>
+			<Resource>
+				<FileName>ssf7.html</FileName>
+				<URL>https://ekbn-dev3.fa.us6.oraclecloud.com/fscmUI/faces/FuseWelcome?_adf.ctrl-state=45boxhb6_5</URL>
+				<FrameDOMHierarchy>0</FrameDOMHierarchy>
+				<UrlWithoutForm>https://ekbn-dev3.fa.us6.oraclecloud.com/fscmUI/faces/FuseWelcome</UrlWithoutForm>
+				<GetVisible>&amp;</GetVisible>
+				<GetHidden>&amp;_adf.ctrl-state=45boxhb6_5</GetHidden>
+				<GetData>_adf.ctrl-state=45boxhb6_5</GetData>
+				<CodePage>65001</CodePage>
+			</Resource>
+			<Resource>
+				<FileName>ssf7f0.html</FileName>
+				<URL>https://ekbn-dev3.fa.us6.oraclecloud.com/fscmUI/afr/blank.html</URL>
+				<FrameDOMHierarchy>0.0</FrameDOMHierarchy>
+				<UrlWithoutForm>https://ekbn-dev3.fa.us6.oraclecloud.com/fscmUI/afr/blank.html</UrlWithoutForm>
+				<FrameName>afr::PushIframe</FrameName>
+				<CodePage>65001</CodePage>
+			</Resource>
+		</Resources>
+		<HighlightObjects>
+			<HighlightObject>
+				<HighlightID>Browser(&quot;Overview - Inventory Management&quot;).Page(&quot;Overview - Inventory Management 4&quot;).Image(&quot;Tasks&quot;)</HighlightID>
+				<FrameDOMHierarchy>0</FrameDOMHierarchy>
+				<SourceIndex>1570</SourceIndex>
+				<ObjectDescription>
+					<Property>
+						<PropName>micclass</PropName>
+						<PropVal>Image</PropVal>
+					</Property>
+					<Property>
+						<PropName>image type</PropName>
+						<PropVal>Image Link</PropVal>
+					</Property>
+					<Property>
+						<PropName>html tag</PropName>
+						<PropVal>IMG</PropVal>
+					</Property>
+					<Property>
+						<PropName>alt</PropName>
+						<PropVal>Tasks</PropVal>
+					</Property>
+					<Property>
+						<PropName>_xpath</PropName>
+						<PropVal>//DIV[1]/FORM[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[4]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/TABLE[@role=&quot;presentation&quot;][1]/TBODY[1]/TR[1]/TD[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[6]/TABLE[@role=&quot;presentation&quot;][1]/TBODY[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/DIV[1]/A[1]/IMG[1]</PropVal>
+					</Property>
+				</ObjectDescription>
+			</HighlightObject>
+		</HighlightObjects>
+	</Snapshot>
+</ActiveScreenInfo>

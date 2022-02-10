@@ -1,0 +1,48 @@
+<ActiveScreenInfo>
+	<Snapshot xsi:type="Web" id="1">
+		<Viewer>Mercury.SSHWeb</Viewer>
+		<WebMetaData StaticSave="0" HasUnknownEncoding="0"/>
+		<Parent>Browser(&quot;Manage Orders - Order&quot;).Page(&quot;Single Sign-Off consent&quot;)</Parent>
+		<Resources>
+			<Resource>
+				<FileName>ssf199.html</FileName>
+				<URL>https://ekbn-dev5.login.us6.oraclecloud.com/fusion_apps/pages/logoutConsent.jsp?logout_done_url=https%3A%2F%2Fekbn-dev5.fa.us6.oraclecloud.com%3A443%2FfscmUI%2FadfAuthentication%3F_adf.authenticate%3Dtrue&amp;logoutId=0DF92F15D338F57B3703096075C791B6F32241AF255D3B8DE3BD9CB6D12B83AB</URL>
+				<FrameDOMHierarchy>0</FrameDOMHierarchy>
+				<UrlWithoutForm>https://ekbn-dev5.login.us6.oraclecloud.com/fusion_apps/pages/logoutConsent.jsp</UrlWithoutForm>
+				<GetVisible>&amp;</GetVisible>
+				<GetHidden>&amp;_adf.ctrl-state=gwwr4bvp6_5</GetHidden>
+				<GetData>_adf.ctrl-state=gwwr4bvp6_5</GetData>
+				<CodePage>65001</CodePage>
+			</Resource>
+		</Resources>
+		<HighlightObjects>
+			<HighlightObject>
+				<HighlightID>Browser(&quot;Manage Orders - Order&quot;).Page(&quot;Single Sign-Off consent&quot;).WebButton(&quot;Confirm&quot;)</HighlightID>
+				<FrameDOMHierarchy>0</FrameDOMHierarchy>
+				<SourceIndex>44</SourceIndex>
+				<ObjectDescription>
+					<Property>
+						<PropName>type</PropName>
+						<PropVal>submit</PropVal>
+					</Property>
+					<Property>
+						<PropName>name</PropName>
+						<PropVal>Confirm</PropVal>
+					</Property>
+					<Property>
+						<PropName>micclass</PropName>
+						<PropVal>WebButton</PropVal>
+					</Property>
+					<Property>
+						<PropName>html tag</PropName>
+						<PropVal>BUTTON</PropVal>
+					</Property>
+					<Property>
+						<PropName>_xpath</PropName>
+						<PropVal>//BUTTON[@id=&quot;Confirm&quot;]</PropVal>
+					</Property>
+				</ObjectDescription>
+			</HighlightObject>
+		</HighlightObjects>
+	</Snapshot>
+</ActiveScreenInfo>

@@ -1,0 +1,61 @@
+<ActiveScreenInfo>
+	<Snapshot xsi:type="Web" id="1">
+		<Viewer>Mercury.SSHWeb</Viewer>
+		<WebMetaData StaticSave="0" HasUnknownEncoding="0"/>
+		<Parent>Browser(&quot;Manage Orders - Order&quot;).Page(&quot;Oracle Applications&quot;)</Parent>
+		<Resources>
+			<Resource>
+				<FileName>ssf210.html</FileName>
+				<URL>https://ekbn-dev5.fa.us6.oraclecloud.com/fscmUI/faces/FuseWelcome?_afrLoop=1009121800092264&amp;_adf.ctrl-state=j79ei2a61_89</URL>
+				<FrameDOMHierarchy>0</FrameDOMHierarchy>
+				<UrlWithoutForm>https://ekbn-dev5.fa.us6.oraclecloud.com/fscmUI/faces/FuseWelcome</UrlWithoutForm>
+				<FrameName>11vwyj4i3u</FrameName>
+				<GetVisible>&amp;</GetVisible>
+				<GetHidden>&amp;_adf.ctrl-state=j79ei2a61_5</GetHidden>
+				<GetData>_adf.ctrl-state=j79ei2a61_5</GetData>
+				<CodePage>65001</CodePage>
+			</Resource>
+			<Resource>
+				<FileName>ssf210f0.html</FileName>
+				<URL>https://ekbn-dev5.fa.us6.oraclecloud.com/fscmUI/afr/blank.html</URL>
+				<FrameDOMHierarchy>0.0</FrameDOMHierarchy>
+				<UrlWithoutForm>https://ekbn-dev5.fa.us6.oraclecloud.com/fscmUI/afr/blank.html</UrlWithoutForm>
+				<FrameName>afr::PushIframe</FrameName>
+				<CodePage>65001</CodePage>
+			</Resource>
+		</Resources>
+		<HighlightObjects>
+			<HighlightObject>
+				<HighlightID>Browser(&quot;Manage Orders - Order&quot;).Page(&quot;Oracle Applications&quot;).WebElement(&quot;Good afternoon, Quynh-Nhu&quot;)</HighlightID>
+				<FrameDOMHierarchy>0</FrameDOMHierarchy>
+				<SourceIndex>264</SourceIndex>
+				<ObjectDescription>
+					<Property>
+						<PropName>micclass</PropName>
+						<PropVal>WebElement</PropVal>
+					</Property>
+					<Property>
+						<PropName>innertext</PropName>
+						<PropVal>Good afternoon, Quynh-Nhu Ly!</PropVal>
+					</Property>
+					<Property>
+						<PropName>html tag</PropName>
+						<PropVal>DIV</PropVal>
+					</Property>
+					<Property>
+						<PropName>acc_name</PropName>
+						<PropVal></PropVal>
+					</Property>
+					<Property>
+						<PropName>_xpath</PropName>
+						<PropVal>//DIV[1]/FORM[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[3]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/SPAN[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]</PropVal>
+					</Property>
+					<Selector>
+						<SelectorName>index</SelectorName>
+						<SelectorVal>0</SelectorVal>
+					</Selector>
+				</ObjectDescription>
+			</HighlightObject>
+		</HighlightObjects>
+	</Snapshot>
+</ActiveScreenInfo>

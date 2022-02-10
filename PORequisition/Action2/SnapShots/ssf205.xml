@@ -1,0 +1,45 @@
+<ActiveScreenInfo>
+	<Snapshot xsi:type="Web" id="1">
+		<Viewer>Mercury.SSHWeb</Viewer>
+		<WebMetaData StaticSave="0" HasUnknownEncoding="0"/>
+		<Parent>Browser(&quot;Manage Orders - Order&quot;).Page(&quot;Sign In&quot;)</Parent>
+		<Resources>
+			<Resource>
+				<FileName>ssf205.html</FileName>
+				<URL>https://ekbn-dev5.login.us6.oraclecloud.com/oam/server/auth_cred_submit</URL>
+				<FrameDOMHierarchy>0</FrameDOMHierarchy>
+				<UrlWithoutForm>https://ekbn-dev5.login.us6.oraclecloud.com/oam/server/auth_cred_submit</UrlWithoutForm>
+				<CodePage>65001</CodePage>
+			</Resource>
+		</Resources>
+		<HighlightObjects>
+			<HighlightObject>
+				<HighlightID>Browser(&quot;Manage Orders - Order&quot;).Page(&quot;Sign In&quot;).WebEdit(&quot;password&quot;)</HighlightID>
+				<FrameDOMHierarchy>0</FrameDOMHierarchy>
+				<SourceIndex>54</SourceIndex>
+				<ObjectDescription>
+					<Property>
+						<PropName>type</PropName>
+						<PropVal>password</PropVal>
+					</Property>
+					<Property>
+						<PropName>name</PropName>
+						<PropVal>password</PropVal>
+					</Property>
+					<Property>
+						<PropName>micclass</PropName>
+						<PropVal>WebEdit</PropVal>
+					</Property>
+					<Property>
+						<PropName>html tag</PropName>
+						<PropVal>INPUT</PropVal>
+					</Property>
+					<Property>
+						<PropName>_xpath</PropName>
+						<PropVal>//INPUT[@id=&quot;password&quot;]</PropVal>
+					</Property>
+				</ObjectDescription>
+			</HighlightObject>
+		</HighlightObjects>
+	</Snapshot>
+</ActiveScreenInfo>

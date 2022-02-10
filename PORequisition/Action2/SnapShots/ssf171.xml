@@ -1,0 +1,66 @@
+<ActiveScreenInfo>
+	<Snapshot xsi:type="Web" id="1">
+		<Viewer>Mercury.SSHWeb</Viewer>
+		<WebMetaData StaticSave="0" HasUnknownEncoding="0"/>
+		<Parent>Browser(&quot;Manage Orders - Order&quot;).Page(&quot;Manage Orders - Order_4&quot;)</Parent>
+		<Resources>
+			<Resource>
+				<FileName>ssf171.html</FileName>
+				<URL>https://ekbn-dev3.fa.us6.oraclecloud.com/fscmUI/faces/FuseWelcome?_afrLoop=4555185776861167&amp;_afrWindowMode=0&amp;_afrWindowId=null&amp;_adf.ctrl-state=betjen7s0_1&amp;_afrFS=16&amp;_afrMT=screen&amp;_afrMFW=1850&amp;_afrMFH=950&amp;_afrMFDW=1920&amp;_afrMFDH=1080&amp;_afrMFC=8&amp;_afrMFCI=0&amp;_afrMFM=0&amp;_afrMFR=96&amp;_afrMFG=0&amp;_afrMFS=0&amp;_afrMFO=0#</URL>
+				<FrameDOMHierarchy>0</FrameDOMHierarchy>
+				<UrlWithoutForm>https://ekbn-dev3.fa.us6.oraclecloud.com/fscmUI/faces/FuseWelcome</UrlWithoutForm>
+				<GetVisible>&amp;</GetVisible>
+				<GetHidden>&amp;_afrLoop=4555185776861167&amp;_afrWindowMode=0&amp;_afrWindowId=null&amp;_adf.ctrl-state=betjen7s0_1&amp;_afrFS=16&amp;_afrMT=screen&amp;_afrMFW=1850&amp;_afrMFH=950&amp;_afrMFDW=1920&amp;_afrMFDH=1080&amp;_afrMFC=8&amp;_afrMFCI=0&amp;_afrMFM=0&amp;_afrMFR=96&amp;_afrMFG=0&amp;_afrMFS=0&amp;_afrMFO=0#</GetHidden>
+				<GetData>_afrLoop=4555185776861167&amp;_afrWindowMode=0&amp;_afrWindowId=null&amp;_adf.ctrl-state=betjen7s0_1&amp;_afrFS=16&amp;_afrMT=screen&amp;_afrMFW=1850&amp;_afrMFH=950&amp;_afrMFDW=1920&amp;_afrMFDH=1080&amp;_afrMFC=8&amp;_afrMFCI=0&amp;_afrMFM=0&amp;_afrMFR=96&amp;_afrMFG=0&amp;_afrMFS=0&amp;_afrMFO=0#</GetData>
+				<CodePage>65001</CodePage>
+			</Resource>
+			<Resource>
+				<FileName>ssf171f0.html</FileName>
+				<URL>https://ekbn-dev3.fa.us6.oraclecloud.com/fscmUI/afr/blank.html</URL>
+				<FrameDOMHierarchy>0.0</FrameDOMHierarchy>
+				<UrlWithoutForm>https://ekbn-dev3.fa.us6.oraclecloud.com/fscmUI/afr/blank.html</UrlWithoutForm>
+				<FrameName>afr::PushIframe</FrameName>
+				<CodePage>65001</CodePage>
+			</Resource>
+			<Resource>
+				<FileName>ssf171f1.html</FileName>
+				<URL>about:blank</URL>
+				<FrameDOMHierarchy>0.1</FrameDOMHierarchy>
+				<UrlWithoutForm>about:blank</UrlWithoutForm>
+				<CodePage>65001</CodePage>
+			</Resource>
+			<Resource>
+				<FileName>ssf171f2.html</FileName>
+				<URL>about:blank</URL>
+				<FrameDOMHierarchy>0.2</FrameDOMHierarchy>
+				<UrlWithoutForm>about:blank</UrlWithoutForm>
+				<CodePage>65001</CodePage>
+			</Resource>
+		</Resources>
+		<HighlightObjects>
+			<HighlightObject>
+				<HighlightID>Browser(&quot;Manage Orders - Order&quot;).Page(&quot;Manage Orders - Order 4&quot;).WebMenu(&quot;pt1: FOr1:1: FOSritemNode order man 2&quot;)</HighlightID>
+				<FrameDOMHierarchy>0</FrameDOMHierarchy>
+				<SourceIndex>2577</SourceIndex>
+				<ObjectDescription>
+					<Property>
+						<PropName>name</PropName>
+						<PropVal>pt1:_FOr1:1:_FOSritemNode_order_management_order_management:0:_FOTsr1:1:AP1:m1::menu</PropVal>
+					</Property>
+					<Property>
+						<PropName>micclass</PropName>
+						<PropVal>WebMenu</PropVal>
+					</Property>
+					<Property>
+						<PropName>html tag</PropName>
+						<PropVal>TABLE</PropVal>
+					</Property>
+					<Property>
+						<PropName>_xpath</PropName>
+						<PropVal>//DIV[@id=&quot;__af_Z_window&quot;]/DIV[1]/DIV[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[1]/TABLE[@role=&quot;menu&quot;][1]</PropVal>
+					</Property>
+				</ObjectDescription>
+			</HighlightObject>
+		</HighlightObjects>
+	</Snapshot>
+</ActiveScreenInfo>

@@ -1,0 +1,63 @@
+<ActiveScreenInfo>
+	<Snapshot xsi:type="Web" id="1">
+		<Viewer>Mercury.SSHWeb</Viewer>
+		<WebMetaData StaticSave="0" HasUnknownEncoding="0"/>
+		<Parent>Browser(&quot;Create Miscellaneous Transaction&quot;).Page(&quot;Create Miscellaneous Transaction_6&quot;)</Parent>
+		<Resources>
+			<Resource>
+				<FileName>ssf118.html</FileName>
+				<URL>https://ekbn-dev3.fa.us6.oraclecloud.com/fscmUI/faces/FuseWelcome?_afrLoop=2912482337582313&amp;_afrWindowMode=0&amp;_afrWindowId=null&amp;_adf.ctrl-state=19xcfep2i7_1&amp;_afrFS=16&amp;_afrMT=screen&amp;_afrMFW=957&amp;_afrMFH=943&amp;_afrMFDW=1920&amp;_afrMFDH=1080&amp;_afrMFC=8&amp;_afrMFCI=0&amp;_afrMFM=0&amp;_afrMFR=96&amp;_afrMFG=0&amp;_afrMFS=0&amp;_afrMFO=0#</URL>
+				<FrameDOMHierarchy>0</FrameDOMHierarchy>
+				<UrlWithoutForm>https://ekbn-dev3.fa.us6.oraclecloud.com/fscmUI/faces/FuseWelcome</UrlWithoutForm>
+				<GetVisible>&amp;</GetVisible>
+				<GetHidden>&amp;_afrLoop=2912482337582313&amp;_afrWindowMode=0&amp;_afrWindowId=null&amp;_adf.ctrl-state=19xcfep2i7_1&amp;_afrFS=16&amp;_afrMT=screen&amp;_afrMFW=957&amp;_afrMFH=943&amp;_afrMFDW=1920&amp;_afrMFDH=1080&amp;_afrMFC=8&amp;_afrMFCI=0&amp;_afrMFM=0&amp;_afrMFR=96&amp;_afrMFG=0&amp;_afrMFS=0&amp;_afrMFO=0#</GetHidden>
+				<GetData>_afrLoop=2912482337582313&amp;_afrWindowMode=0&amp;_afrWindowId=null&amp;_adf.ctrl-state=19xcfep2i7_1&amp;_afrFS=16&amp;_afrMT=screen&amp;_afrMFW=957&amp;_afrMFH=943&amp;_afrMFDW=1920&amp;_afrMFDH=1080&amp;_afrMFC=8&amp;_afrMFCI=0&amp;_afrMFM=0&amp;_afrMFR=96&amp;_afrMFG=0&amp;_afrMFS=0&amp;_afrMFO=0#</GetData>
+				<CodePage>65001</CodePage>
+			</Resource>
+			<Resource>
+				<FileName>ssf118f0.html</FileName>
+				<URL>https://ekbn-dev3.fa.us6.oraclecloud.com/fscmUI/afr/blank.html</URL>
+				<FrameDOMHierarchy>0.0</FrameDOMHierarchy>
+				<UrlWithoutForm>https://ekbn-dev3.fa.us6.oraclecloud.com/fscmUI/afr/blank.html</UrlWithoutForm>
+				<FrameName>afr::PushIframe</FrameName>
+				<CodePage>65001</CodePage>
+			</Resource>
+			<Resource>
+				<FileName>ssf118f1.html</FileName>
+				<URL>about:blank</URL>
+				<FrameDOMHierarchy>0.1</FrameDOMHierarchy>
+				<UrlWithoutForm>about:blank</UrlWithoutForm>
+				<CodePage>65001</CodePage>
+			</Resource>
+		</Resources>
+		<HighlightObjects>
+			<HighlightObject>
+				<HighlightID>Browser(&quot;Create Miscellaneous Transaction&quot;).Page(&quot;Create Miscellaneous Transaction 6&quot;).Image(&quot;Select: Source&quot;)</HighlightID>
+				<FrameDOMHierarchy>0</FrameDOMHierarchy>
+				<SourceIndex>645</SourceIndex>
+				<ObjectDescription>
+					<Property>
+						<PropName>micclass</PropName>
+						<PropVal>Image</PropVal>
+					</Property>
+					<Property>
+						<PropName>image type</PropName>
+						<PropVal>Image Link</PropVal>
+					</Property>
+					<Property>
+						<PropName>html tag</PropName>
+						<PropVal>IMG</PropVal>
+					</Property>
+					<Property>
+						<PropName>alt</PropName>
+						<PropVal>Select: Source</PropVal>
+					</Property>
+					<Property>
+						<PropName>_xpath</PropName>
+						<PropVal>//DIV[2]/FORM[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[4]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/TABLE[@role=&quot;presentation&quot;][1]/TBODY[1]/TR[1]/TD[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/TABLE[@role=&quot;presentation&quot;][1]/TBODY[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/SPAN[1]/DIV[1]/DIV[2]/DIV[1]/TABLE[@role=&quot;presentation&quot;][1]/TBODY[1]/TR[1]/TD[3]/DIV[1]/TABLE[@role=&quot;presentation&quot;][1]/TBODY[1]/TR[1]/TD[1]/TABLE[@role=&quot;presentation&quot;][1]/TBODY[1]/TR[3]/TD[2]/SPAN[1]/TABLE[@role=&quot;presentation&quot;][1]/TBODY[1]/TR[1]/TD[2]/TABLE[@role=&quot;presentation&quot;][1]/TBODY[1]/TR[1]/TD[3]/A[1]/IMG[1]</PropVal>
+					</Property>
+				</ObjectDescription>
+			</HighlightObject>
+		</HighlightObjects>
+	</Snapshot>
+</ActiveScreenInfo>

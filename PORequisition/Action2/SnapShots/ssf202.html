@@ -1,0 +1,110 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Single Sign-Off consent</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link href="/fusion_apps/global/v3/loginTemplate.css" rel="stylesheet" type="text/css">
+
+<!-- Start Disable frame hijacking Script-->
+
+
+
+  
+  <script type="text/javascript">
+
+      if (self === top) {
+         var antiClickjack = document.getElementById("antiClickjack");
+         antiClickjack.parentNode.removeChild(antiClickjack);
+      } else {
+          top.location = self.location;
+      }
+ </script>
+
+
+
+
+<!-- End Disable frame hijacking Script-->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script language="javascript" type="text/javascript">
+<!-- 
+var currentPageLang = 'en-us';
+
+var isError;
+
+// -->
+</script>
+<script language="javascript" src="/fusion_apps/global/v3/config.js" type="text/javascript"></script>
+<script language="javascript" src="/fusion_apps/global/v3/messages.js" type="text/javascript"></script>
+<script language="javascript" type="text/javascript">
+
+</script>
+
+</head>
+<body onload="document.getElementById('Confirm').focus();">
+<!-- start Branding Area -->
+<div class="container">
+        <div class="brandContainer">
+                <div class="imageContainer">
+                        <img width="325" height="325" alt="ORACLE CLOUD" src="/fusion_apps/global/images/mcs_login_324.png">
+                </div>
+                <div class="branding">
+                        <div class="head1">Sign In</div>
+                        <div class="head2">ORACLE APPLICATIONS CLOUD</div>
+                </div>
+     </div>
+</div>
+<div class="stripe"></div>
+<!-- end Branding Area -->
+
+<!-- start footer -->
+    
+
+<div class="copyrightFooter">
+<div class="foot">
+<div class="Ologo">
+<img width="139" height="42" alt="ORACLE ®" src="/fusion_apps/global/images/OracleLogo.png">
+</div>
+</div>
+<div class="copyright">Copyright(C) 2011, 2016, Oracle and/or its affiliates. All rights reserved.</div>
+</div>
+
+<!-- end footer -->
+
+<form name="logoutConsent" id="logoutConsent" action="/oam/server/logout" method="post">
+<!------------ DO NOT REMOVE ------------->
+<!----- loginform renderBrowserView ----->
+<!-- Required for SmartView Integration -->
+                        
+			 
+
+<div class="contentContainer">
+  	<div class="formContainer">
+	<div class="signin_form">
+<div class="logoutConsentTitle">Logout Consent</div>
+<br>
+<div class="logoutConsentInstruction">Confirm your Single Sign-Off action</div>
+<br>
+
+
+<!-- Consent panel Watermark can go in td column below -->
+  <button name="Confirm" id="Confirm" onclick="this.disabled=true;document.body.style.cursor = 'wait'; this.className='formButton-disabled';form.submit();return false;"> Confirm</button><br><br>
+	</div>
+  
+ <input name="logoutId" type="hidden" value="FE779C5097AE3F8A72443365B5AC58E1585FCA0E37035EA307CCAE1382A0E0B8">
+ <input name="logout_done_url" type="hidden" value="https://ekbn-dev5.fa.us6.oraclecloud.com:443/fscmUI/adfAuthentication?_adf.authenticate=true">
+
+
+
+</div>
+</div></form>
+<script language="javascript" type="text/javascript">
+	function cancelForm()
+	{
+		document.logoutConsent.action = "null";
+        document.logoutConsent.submit();
+	 }
+	
+</script>
+
+
+
+</body></html>

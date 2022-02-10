@@ -1,0 +1,82 @@
+<ActiveScreenInfo>
+	<Snapshot xsi:type="Web" id="1">
+		<Viewer>Mercury.SSHWeb</Viewer>
+		<WebMetaData StaticSave="0" HasUnknownEncoding="0"/>
+		<Parent>Browser(&quot;Create Miscellaneous Transaction&quot;).Page(&quot;Create Miscellaneous Transaction_5&quot;)</Parent>
+		<Resources>
+			<Resource>
+				<FileName>ssf113.html</FileName>
+				<URL>https://ekbn-dev3.fa.us6.oraclecloud.com/fscmUI/faces/FuseWelcome?_afrLoop=2905215501788245&amp;_afrWindowMode=0&amp;_afrWindowId=null&amp;_adf.ctrl-state=14hcetmfxb_1&amp;_afrFS=16&amp;_afrMT=screen&amp;_afrMFW=957&amp;_afrMFH=943&amp;_afrMFDW=1920&amp;_afrMFDH=1080&amp;_afrMFC=8&amp;_afrMFCI=0&amp;_afrMFM=0&amp;_afrMFR=96&amp;_afrMFG=0&amp;_afrMFS=0&amp;_afrMFO=0#</URL>
+				<FrameDOMHierarchy>0</FrameDOMHierarchy>
+				<UrlWithoutForm>https://ekbn-dev3.fa.us6.oraclecloud.com/fscmUI/faces/FuseWelcome</UrlWithoutForm>
+				<GetVisible>&amp;</GetVisible>
+				<GetHidden>&amp;_afrLoop=2905215501788245&amp;_afrWindowMode=0&amp;_afrWindowId=null&amp;_adf.ctrl-state=14hcetmfxb_1&amp;_afrFS=16&amp;_afrMT=screen&amp;_afrMFW=957&amp;_afrMFH=943&amp;_afrMFDW=1920&amp;_afrMFDH=1080&amp;_afrMFC=8&amp;_afrMFCI=0&amp;_afrMFM=0&amp;_afrMFR=96&amp;_afrMFG=0&amp;_afrMFS=0&amp;_afrMFO=0#</GetHidden>
+				<GetData>_afrLoop=2905215501788245&amp;_afrWindowMode=0&amp;_afrWindowId=null&amp;_adf.ctrl-state=14hcetmfxb_1&amp;_afrFS=16&amp;_afrMT=screen&amp;_afrMFW=957&amp;_afrMFH=943&amp;_afrMFDW=1920&amp;_afrMFDH=1080&amp;_afrMFC=8&amp;_afrMFCI=0&amp;_afrMFM=0&amp;_afrMFR=96&amp;_afrMFG=0&amp;_afrMFS=0&amp;_afrMFO=0#</GetData>
+				<CodePage>65001</CodePage>
+			</Resource>
+			<Resource>
+				<FileName>ssf113f0.html</FileName>
+				<URL>https://ekbn-dev3.fa.us6.oraclecloud.com/fscmUI/afr/blank.html</URL>
+				<FrameDOMHierarchy>0.0</FrameDOMHierarchy>
+				<UrlWithoutForm>https://ekbn-dev3.fa.us6.oraclecloud.com/fscmUI/afr/blank.html</UrlWithoutForm>
+				<FrameName>afr::PushIframe</FrameName>
+				<CodePage>65001</CodePage>
+			</Resource>
+			<Resource>
+				<FileName>ssf113f1.html</FileName>
+				<URL>about:blank</URL>
+				<FrameDOMHierarchy>0.1</FrameDOMHierarchy>
+				<UrlWithoutForm>about:blank</UrlWithoutForm>
+				<CodePage>65001</CodePage>
+			</Resource>
+			<Resource>
+				<FileName>ssf113f2.html</FileName>
+				<URL>about:blank</URL>
+				<FrameDOMHierarchy>0.2</FrameDOMHierarchy>
+				<UrlWithoutForm>about:blank</UrlWithoutForm>
+				<CodePage>65001</CodePage>
+			</Resource>
+		</Resources>
+		<HighlightObjects>
+			<HighlightObject>
+				<HighlightID>Browser(&quot;Create Miscellaneous Transaction&quot;).Page(&quot;Create Miscellaneous Transaction 5&quot;).WebButton(&quot;Search&quot;)</HighlightID>
+				<FrameDOMHierarchy>0</FrameDOMHierarchy>
+				<SourceIndex>3270</SourceIndex>
+				<ObjectDescription>
+					<Property>
+						<PropName>type</PropName>
+						<PropVal>submit</PropVal>
+					</Property>
+					<Property>
+						<PropName>role</PropName>
+						<PropVal></PropVal>
+					</Property>
+					<Property>
+						<PropName>name</PropName>
+						<PropVal>Search</PropVal>
+					</Property>
+					<Property>
+						<PropName>micclass</PropName>
+						<PropVal>WebButton</PropVal>
+					</Property>
+					<Property>
+						<PropName>html tag</PropName>
+						<PropVal>BUTTON</PropVal>
+					</Property>
+					<Property>
+						<PropName>acc_name</PropName>
+						<PropVal></PropVal>
+					</Property>
+					<Property>
+						<PropName>_xpath</PropName>
+						<PropVal>//DIV[@id=&quot;__af_Z_window&quot;]/DIV[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/TABLE[@role=&quot;presentation&quot;][1]/TBODY[1]/TR[2]/TD[2]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[@role=&quot;search&quot;][1]/DIV[2]/DIV[1]/TABLE[@role=&quot;presentation&quot;][1]/TBODY[1]/TR[1]/TD[1]/TABLE[@role=&quot;presentation&quot;][1]/TBODY[1]/TR[1]/TD[3]/BUTTON[1]</PropVal>
+					</Property>
+					<Selector>
+						<SelectorName>index</SelectorName>
+						<SelectorVal>1</SelectorVal>
+					</Selector>
+				</ObjectDescription>
+			</HighlightObject>
+		</HighlightObjects>
+	</Snapshot>
+</ActiveScreenInfo>

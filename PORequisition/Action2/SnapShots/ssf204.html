@@ -1,0 +1,182 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE">
+<title id="pageTitle"> Sign In</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link disabled="" id="loginTemplateArabicCSS" href="/fusion_apps/global/v3/loginTemplate_rtl.css" rel="stylesheet" type="text/css">
+<link id="loginTemplateCSS" href="/fusion_apps/global/v3/loginTemplate.css" rel="stylesheet" type="text/css">
+<!-- Start Disable frame hijacking Script-->
+
+
+
+  
+  <script type="text/javascript">
+
+      if (self === top) {
+         var antiClickjack = document.getElementById("antiClickjack");
+         antiClickjack.parentNode.removeChild(antiClickjack);
+      } else {
+          top.location = self.location;
+      }
+ </script>
+
+
+
+
+<!-- End Disable frame hijacking Script-->  
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script language="javascript" type="text/javascript">
+<!-- 
+var currentPageLang = 'en-us';
+
+var isError;
+
+// -->
+</script>
+<script language="javascript" src="/fusion_apps/global/v3/config.js" type="text/javascript"></script>
+<script language="javascript" src="/fusion_apps/global/v3/messages.js" type="text/javascript"></script>
+<script language="javascript" src="/fusion_apps/global/v3/loginJS.js" type="text/javascript"></script>
+<script language="javascript" type="text/javascript">
+
+function submitCreds(e) {
+
+   var keyPressed;
+   if(window.event)
+      keyPressed = window.event.keyCode;	// IE
+   else
+     keyPressed = e.which;	// Firefox
+   if (keyPressed == 13)
+      onClickSubmit('local');
+   else
+      return true;
+}
+
+function submitform()
+{
+	 document.loginForm.action = "/fusion_apps/pages/dedicated_fedsso.jsp"; 
+	 document.loginForm.submit();
+	 document.loginForm.action ="/oam/server/auth_cred_submit";
+	 //document.loginForm.action ="/fusion_apps/pages/Header.jsp";
+}
+
+function onClickSubmit(button)
+{
+        if (button === "local"){
+            document.loginForm.buttonAction.value = "local";
+            document.loginForm.submit();
+        }
+        else if (button === "fedSSO"){
+            document.loginForm.userid.value = "";
+            document.loginForm.password.value = "";
+            document.loginForm.buttonAction.value = "fedSSO";
+            document.loginForm.submit();
+        }
+        else{
+            document.loginForm.submit();
+        }
+
+
+}
+
+
+function callLanguageChange() {
+  console.log("Going to call language change servlet");
+  var http = new XMLHttpRequest();
+  var url = "/fusion_apps/localeChange";
+  var selectedIndx = document.loginForm.Languages.selectedIndex;
+  var selectedOption = document.loginForm.Languages.options[selectedIndx];
+  var selectedLang = document.loginForm.Languages.options[selectedIndx].value;
+  var myreq = new Ajax();
+  myreq.url=  url+"?Languages="+selectedLang+"&p_error_code="+'OAM-8';
+  myreq.success = successCallback;
+  myreq.args = null;
+  myreq.sendToServer();
+}
+
+
+</script>
+
+</head>
+<body onload="setFocusOnElement('userid');javascript:onBodyLoad();">
+
+<!-- start Branding Area -->
+<div class="container">
+        <div class="brandContainer">
+                <div class="imageContainer">
+                        <img width="325" height="325" alt="ORACLE CLOUD" src="/fusion_apps/global/images/mcs_login_324.png">
+                </div>
+                <div class="branding">
+                        <div class="head1" id="loginTitle">Sign In</div>
+                        <div class="head2">ORACLE APPLICATIONS CLOUD</div>
+                </div>
+     </div>
+</div>
+<div class="stripe"></div>
+<!-- end Branding Area -->
+<!-- start footer -->
+    
+<div class="psLoginCopyrightFooter">
+<div class="foot">
+<div class="Ologo">
+<img width="139" height="42" alt="ORACLE ®" src="/fusion_apps/global/images/OracleLogo.png"></div>
+</div>
+<div class="copyright" id="copyright">Copyright(C) 2011, 2016, Oracle and/or its affiliates. All rights reserved.</div>
+</div>
+
+
+<p></p>
+
+<!-- end footer -->
+
+<div class="message-row">
+   <UTBNS>
+
+</div>
+
+<div class="contentContainer">
+
+ <form name="loginForm" class="signin_form" id="Login" action="/oam/server/auth_cred_submit" method="post">
+
+  <div class="sso-container">
+	<button class="ssoBtnActive" id="ssoBtn" onclick="onClickSubmit('fedSSO');" type="button">Company Single Sign-On</button> <br>
+   <h3 class="horizontal-divider"><span id="orText">or</span></h3>  
+  </div>
+<div class="chooserFormContainer">
+<!------------ DO NOT REMOVE ------------->
+<!----- loginform renderBrowserView ----->
+<!-- Required for SmartView Integration -->
+<div class="error" id="error">Authentication failed. </div>
+<label id="useridLabel" style="display: none;" name="useridLabel">User ID</label>
+
+<input name="userid" class="textInput" id="userid" onkeypress="return submitCreds(event)" type="text" maxlength="200" placeholder="User ID" autocomplete="off">
+<br>
+<label id="passwordLabel" style="display: none;" name="passwordLabel">Password</label>
+ <input name="password" class="textInput" id="password" onkeypress="return submitCreds(event)" type="password" maxlength="200" placeholder="Password" autocomplete="off"><br>
+<div class="inputContainer">
+ 
+        <a class="forgotLink" id="forgotLink" href="https://ekbn-dev5.fa.us6.oraclecloud.com:443/hcmCore/faces/ForgotPassword?backUrl=https%3A%2F%2Fekbn-dev5.fa.us6.oraclecloud.com%2FfscmUI%2FadfAuthentication%3F_adf.authenticate%3Dtrue%26_afrLoop%3D1009053654723963">Forgot Password</a>
+        
+<input name="request_id" type="hidden" value="&amp;#45;8374788831348273396">
+
+<input name="oam_mt" type="hidden" value="null">
+<input name="ovm" type="hidden" value="null">
+<input name="cloud" id="cloud" type="hidden" value="null">
+<input name="buttonAction" type="hidden" value="null">
+<button class="btnActiveChooser signinWidth" id="btnActive" onclick="onClickSubmit('local');" type="button">Sign In </button>
+
+<select name="Languages" class="defaultHidden" id="Languages" style="width: 275px; margin-top: 25px; visibility: visible;" aria-label="Preferred Language" onchange="callLanguageChange();">
+<option value=""> Select Language </option><option value="ar-ae">Arabic - العربية </option><option value="cs-cz">Czech - čeština </option><option value="da-dk">Danish - dansk </option><option value="de-de">German - Deutsch </option><option value="el-gr">Greek - Ελληνικά </option><option value="en-us">English </option><option value="es-es">Spanish - español </option><option value="et-ee">Estonian - eesti</option><option value="fi-fi">Finnish - suomi </option><option value="fr-ca">Canadian French - français canadien</option><option value="fr-fr">French - français </option><option value="he-il">Hebrew - עברית </option><option value="hu-hu">Hungarian - magyar </option><option value="it-it">Italian - italiano </option><option value="ja-jp">Japanese - 日本語</option><option value="ko-kr">Korean - 한국어</option><option value="lt-lt">Lithuanian - lietuvių</option><option value="lv-lv">Latvian - latviešu</option><option value="nl-nl">Dutch - Nederlands </option><option value="no-no">Norwegian - norsk </option><option value="pl-pl">Polish - polski </option><option value="pt-br">Brazilian Portuguese - português do Brasil</option><option value="pt-pt">European Portuguese - português europeu</option><option value="ro-ro">Romanian - română </option><option value="ru-ru">Russian - pусский </option><option value="sk-sk">Slovak - slovenčina </option><option value="sv-se">Swedish - svenska </option><option value="th-th">Thai - ไทย </option><option value="tr-tr">Turkish - Türkçe </option><option value="zh-cn">Simplified Chinese - 简体中文 </option><option value="zh-tw">Traditional Chinese - 繁體中文 </option>
+</select>
+</div>
+<br>
+
+</div></form>
+</div>
+<script language="javascript" type="text/javascript">
+<!-- 
+setCustomHeaderFooter();
+// -->
+</script>
+
+ 
+</body></html>
